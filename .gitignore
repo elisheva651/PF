@@ -1,0 +1,41 @@
+# Node.js / JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# General logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Secrets / Environment
+.env
